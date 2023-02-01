@@ -10,6 +10,6 @@ here I'm just running through the visual studio debug and use xampp for login/da
 
 ## Example
 
-### `Server` <https://youtu.be/dVMr-ANtJCA>
+### `Videos` <https://youtu.be/dVMr-ANtJCA>
 
 [![Watch the video](./assets/images/cover-video.png)](https://youtu.be/dVMr-ANtJCA)
